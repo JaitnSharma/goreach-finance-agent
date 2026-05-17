@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Runtime & temporary
+memory.json
+*.zip
+setup_venv.sh
+New\ Text\ Document.txt
+
+# IDE & config
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Assignment spec (internal reference only)
+task.md

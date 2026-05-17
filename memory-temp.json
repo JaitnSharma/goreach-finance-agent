@@ -1,0 +1,27 @@
+{
+  "savings_plan": {
+    "house_fund_monthly_target": 30000,
+    "food_delivery_budget_cut_pct": 50,
+    "transfer_date": "2025-11-25",
+    "plan_set_date": "2025-11-03"
+  },
+  "reminders_set": [
+    {
+      "date": "2025-11-03",
+      "content": "Transfer \u20b962,500 to house_fund for monthly savings goal.",
+      "reminder_id": "rem_5018"
+    },
+    {
+      "date": "2025-11-15",
+      "content": "Review food delivery spending; cap at \u20b96,445 for the month.",
+      "reminder_id": "rem_639"
+    },
+    {
+      "date": "2025-11-25",
+      "content": "Transfer \u20b930,000 to house_fund.",
+      "reminder_id": "rem_7722"
+    }
+  ],
+  "session1_summary": "Analyzed high food delivery spending and committed to a 50% reduction. Established a plan to transfer \u20b930,000 to the house fund on the 25th while maintaining the broader savings goal.",
+  "last_session_date": "2025-11-03"
+}
